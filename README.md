@@ -45,8 +45,6 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejaviertc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thejaviertc" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejaviertc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thejaviertc" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thejaviertc&show_icons=true&theme=tokyonight&locale=en" alt="thejaviertc" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thejaviertc&theme=dark" alt="thejaviertc" /></p>
