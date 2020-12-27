@@ -4,9 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thejaviertc&label=Profile%20views&color=0e75b6&style=flat" alt="thejaviertc" /> </p>
 <p align="center"> <a href="https://twitter.com/thejaviertc" target="blank"><img src="https://img.shields.io/twitter/follow/thejaviertc?logo=twitter&style=for-the-badge" alt="thejaviertc" /></a> </p>
 
-- 🔭 I’m currently studing at **Universidad Politécnica de Madrid**
-- 👨‍💻 All of my projects are available at [https://thejaviertc.github.io/portfolio-javiertc/](https://thejaviertc.github.io/portfolio-javiertc/)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/thejaviertc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thejaviertc" height="30" width="40" /></a>
@@ -45,7 +42,7 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejaviertc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thejaviertc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejaviertc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thejaviertc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejaviertc&show_icons=true&theme=tokyonight&locale=en" alt="thejaviertc" /></p>
 
