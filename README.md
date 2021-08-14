@@ -29,14 +29,13 @@
 
 <h3 align="left">Programming:</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://thejaviertc.github.io/portfolio-javiertc/static/media/clang.55a9c086.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdnlogo.com/logos/c/27/c.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://thejaviertc.github.io/portfolio-javiertc/static/media/java.83165dfb.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://thejaviertc.github.io/portfolio-javiertc/static/media/bash.d31503ed.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
