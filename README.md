@@ -5,12 +5,6 @@
 - All of my projects are available at [https://thejaviertc.github.io/portfolio-javiertc/](https://thejaviertc.github.io/portfolio-javiertc/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thejaviertc&label=Profile%20views&color=0e75b6&style=flat" alt="thejaviertc" /> </p>
-<p align="left"> <a href="https://twitter.com/thejaviertc" target="blank"><img src="https://img.shields.io/twitter/follow/thejaviertc?logo=twitter&style=for-the-badge" alt="thejaviertc" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thejaviertc" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="thejaviertc" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Frontend:</h3>
 <p align="left"> 
