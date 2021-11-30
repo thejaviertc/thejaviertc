@@ -9,7 +9,7 @@
 <h3 align="left">Frontend:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://thejaviertc.github.io/portfolio-javiertc/static/media/css3.8af7562c.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" width="40" height="40"/> </a>
 </p>
@@ -22,7 +22,7 @@
 
 <h3 align="left">Programming:</h3>
 <p align="left"> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://thejaviertc.github.io/portfolio-javiertc/static/media/java.83165dfb.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/es-es/dotnet/csharp/" target="_blank"> <img src="https://cdnlogo.com/logos/c/27/c.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
