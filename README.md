@@ -24,12 +24,6 @@
   <img src="https://cdnlogo.com/logos/c/27/c.svg" alt="csharp" width="40" height="40"/>
 </p>
 
-<h3 align="left">Backend:</h3>
-<p align="left"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Express%2C_Inc._logo.svg" alt="express" width="40" height="40"/>
-</p>
-
 <h3 align="left">Databases:</h3>
 <p align="left"> 
   <img src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg" alt="sql" width="40" height="40"/>
