@@ -1,0 +1,10 @@
+# Ignore all
+/**
+
+# Exceptions
+!.config/
+!.config/alacritty
+!.config/alacritty/**
+!.gitconfig
+!.gitignore
+!.zshrc
