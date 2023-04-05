@@ -5,6 +5,8 @@
 !.config/
 !.config/alacritty
 !.config/alacritty/**
+!images/
+!images/**
 !.gitconfig
 !.gitignore
 !.zshrc
