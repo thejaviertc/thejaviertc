@@ -5,8 +5,9 @@
 !.config/
 !.config/alacritty
 !.config/alacritty/**
+!.config/starship.toml
 !images/
 !images/**
+!.bashrc
 !.gitconfig
 !.gitignore
-!.zshrc

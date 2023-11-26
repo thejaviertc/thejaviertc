@@ -7,16 +7,16 @@ window:
 
 font:
   normal:
-    family: Cascadia Mono
+    family: CaskaydiaMono NF
     style: Regular
   bold:
-    family: Cascadia Mono
+    family: CaskaydiaMono NF
     style: Bold
   italic:
-    family: Cascadia Mono
+    family: CaskaydiaMono NF
     style: Italic
   bold_italic:
-    family: Cascadia Mono
+    family: CaskaydiaMono NF
     style: Bold Italic
   size: 14.0
 
