@@ -1,0 +1,40 @@
+[colors.normal]
+black = "0x1E1E1E"
+blue = "0x569CD6"
+cyan = "0x9CDCFE"
+green = "0x608B4E"
+magenta = "0xC586C0"
+red = "0xF44747"
+white = "0xD4D4D4"
+yellow = "0xD7BA7D"
+
+[colors.primary]
+background = "0x1E1E1E"
+foreground = "0xD4D4D4"
+
+[font]
+size = 14.0
+
+[font.bold]
+family = "CaskaydiaMono NF"
+style = "Bold"
+
+[font.bold_italic]
+family = "CaskaydiaMono NF"
+style = "Bold Italic"
+
+[font.italic]
+family = "CaskaydiaMono NF"
+style = "Italic"
+
+[font.normal]
+family = "CaskaydiaMono NF"
+style = "Regular"
+
+[window]
+dynamic_padding = true
+opacity = 1
+
+[window.padding]
+x = 16
+y = 16
