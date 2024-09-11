@@ -4,7 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/thejaviertc)
 
 ## About Me
-- I’m currently studing at **Universidad Politécnica de Madrid**.
+- Software Engineer.
 - All of my projects are available at [https://thejaviertc.github.io/portfolio-javiertc/](https://thejaviertc.github.io/portfolio-javiertc/)
 
 ## GitHub Analytics
